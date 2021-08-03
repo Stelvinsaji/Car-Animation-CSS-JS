@@ -2,7 +2,7 @@
 
 Project Description:
 
-Implemented a Car using Html & CSS with sound effects. The prerequisites of this project are HTML, CSS, and JavaScript.
+Implemented a Car using Html, CSS & JavaScript.
 
 Explanation:
 
